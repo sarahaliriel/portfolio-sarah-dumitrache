@@ -19,8 +19,8 @@ export default function About() {
     >
       <SectionHeading>Sobre mim</SectionHeading>
       <p className="mb-3">
-        Meu nome é Sarah Dumitrache e sou{" "}
-        <span className="font-medium">apaixonada</span> em tecnologia e desenvolvimento web.{" "}
+        Meu nome é Sarah Dumitrache e sou uma jovem{" "}
+        <span className="font-medium">apaixonada</span> por tecnologia e desenvolvimento web.{" "}
         <span className="font-medium">Estou em formação na área de</span>{" "}
         <span className="italic">Informática de Sistemas</span> e venho me dedicando a aprender e aplicar meus conhecimentos em projetos práticos, com foco em desenvolvimento <span className="italic">full-stack</span>. 
         Gosto de transformar ideias em soluções funcionais, combinando programação, design e usabilidade. Estou sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedora e contribuir com projetos que façam a diferença.
@@ -28,8 +28,8 @@ export default function About() {
 
       <p>
         <span className="italic">Quando não estou "codando"</span>, eu gosto de
-        ver filmes, ler livros, editar vídeos e ouvir música. Eu também gosto e priorizo muito{" "}
-        <span className="font-medium">aprender novas coisas</span>!
+        ver filmes, ler livros, editar vídeos e ouvir música. Tenho prazer em adquirir novos conhecimentos,{" "}
+        <span className="font-medium">pois aprecio o processo de aprendizagem</span>!
       </p>
     </motion.section>
   );
