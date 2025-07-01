@@ -6,7 +6,8 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import { BsArrowRight, BsLinkedin } from "react-icons/bs";
 import { HiDownload } from "react-icons/hi";
-import { FaDiscord, FaWhatsapp } from "react-icons/fa";
+import { FaWhatsapp } from "react-icons/fa";
+import { FaGithubSquare } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
 
@@ -61,9 +62,9 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Olá, me chamo Sarah Dumitrache </span>e sou uma{" "}
-        <span className="font-bold">front end developer</span>. Aos 18 com 3 anos de experiência na área, meu principal foco é no{" "}
-        <span className="font-bold">desenvolvimento de web-sites</span>.
+        <span className="font-bold">Me chamo Sarah Dumitrache </span>e sou uma{" "}
+        <span className="font-bold">full-stack developer</span>. Aos 18 com 3 anos de experiência na área, meu principal foco é no{" "}
+        <span className="font-bold">desenvolvimento de Web-Sites</span>.
       </motion.h1>
 
       <motion.div
@@ -96,11 +97,11 @@ export default function Intro() {
         </a>
 
         <a
-          className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://discord.com/users/942126894478950530"
+          className="bg-white p-4 text-gray-700 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
+          href="https://github.com/sarahaliriel"
           target="_blank"
         >
-          <FaDiscord />
+          <FaGithubSquare />
         </a>
 
         <a

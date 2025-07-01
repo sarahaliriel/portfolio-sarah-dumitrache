@@ -50,10 +50,10 @@ export const experiencesData = [
     date: "2023 - 2024",
   },
   {
-    title: "Front End Developer",
+    title: "Full-Stack Developer",
     location: "Lisboa, PT",
     description:
-      "Hoje, continuo me dedicando à área, aprimorando minhas habilidades, aprendendo novas tecnologias e desenvolvendo projetos que refletem minha evolução como futura desenvolvedora front-end.",
+      "Ainda no começo deste ano, participei de um Bootcamp de uma semana onde não só coloquei em prática o que já sabia, mas também aperfeiçoei meus conhecimentos em HTML, CSS e JavaScript. Hoje, continuo me dedicando à área, aprimorando minhas habilidades, aprendendo novas tecnologias e desenvolvendo projetos que refletem minha evolução como futura desenvolvedora full-stack.",
     icon: React.createElement(FaReact),
     date: "2025",
   },

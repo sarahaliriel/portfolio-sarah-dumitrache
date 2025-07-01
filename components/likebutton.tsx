@@ -103,7 +103,7 @@ export default function LikeButton() {
           </svg>
           <span className="like-text">Likes</span>
         </label>
-        <span className="like-count one">{count - 9}</span>
+        <span className="like-count one">{count - 0}</span>
         <span className="like-count two">{count}</span>
       </div>
     </>

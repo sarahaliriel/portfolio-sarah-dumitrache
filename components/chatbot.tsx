@@ -255,6 +255,116 @@ export default function Chatbot() {
   'Quais tecnologias você usa': 'Uso React, Next.js, Tailwind CSS, Node.js e outras tecnologias modernas.',
   'Quais tecnologias que você usa': 'Uso React, Next.js, Tailwind CSS, Node.js e outras tecnologias modernas.',
   'Quais tecnologias': 'Uso React, Next.js, Tailwind CSS, Node.js e outras tecnologias modernas.',
+  'Tecnologias?': 'Uso React, Next.js, Tailwind CSS, Node.js e outras tecnologias modernas.',
+  'tecnologias?': 'Uso React, Next.js, Tailwind CSS, Node.js e outras tecnologias modernas.',
+  'Tecnologias': 'Uso React, Next.js, Tailwind CSS, Node.js e outras tecnologias modernas.',
+  'tecnologias': 'Uso React, Next.js, Tailwind CSS, Node.js e outras tecnologias modernas.',
+
+
+   'O que é programação?': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+   'O que é programação': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+   'o que é programação?': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+   'o que é programação': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+   'Me explique o que é programação': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+   'me explique o que é programação': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+   'diga o que é programação': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+   'Diga o que é programação': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+
+
+   'O que é HTML?': 'HTML é a linguagem que cria a estrutura das páginas da web.',
+   'O que é HTML': 'HTML é a linguagem que cria a estrutura das páginas da web.',
+   'o que é HTML?': 'HTML é a linguagem que cria a estrutura das páginas da web.',
+   'o que é HTML': 'HTML é a linguagem que cria a estrutura das páginas da web.',
+   'Me explique o que é HTML': 'HTML é a linguagem que cria a estrutura das páginas da web.',
+   'me explique o que é HTML': 'HTML é a linguagem que cria a estrutura das páginas da web.',
+
+
+   'O que é CSS?': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
+   'O que é CSS': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
+   'o que é CSS?': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
+   'o que é CSS': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
+   'Me explique o que é CSS': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
+   'me explique o que é CSS': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
+
+
+   'O que é JavaScript?': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
+   'O que é JavaScript': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
+   'o que é JavaScript?': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
+   'o que é JavaScript': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
+   'Me explique o que é JavaScript': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
+   'me explique o que é JavaScript': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
+
+   
+   'O que é Tailwind CSS?': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
+   'O que é Tailwind CSS': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
+   'o que é Tailwind CSS?': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
+   'o que é Tailwind CSS': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
+   'Me explique o que é Tailwind CSS': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
+   'me explique o que é Tailwind CSS': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
+
+
+   'O que é Next.js?': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'O que é Next.js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'o que é Next.js?': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'o que é Next.js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'Me explique o que é Next.js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'me explique o que é Next.js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+
+
+   'O que é um portfólio?': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
+   'O que é um portfólio': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
+   'o que é um portfólio?': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
+   'o que é um portfólio': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
+   'Me explique o que é um portfólio': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
+   'me explique o que é um portfólio': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
+
+
+   'Para que serve um portfólio': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
+   'para que serve um portfólio': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
+   'Para o que serve um portfólio': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
+   'para o que serve um portfólio': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
+   'Me explique para o que serve um portfólio': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
+   'me explique para o que serve um portfólio': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
+
+
+   'O que é TypeScript?': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
+   'O que é TypeScript': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
+   'o que é TypeScript?': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
+   'o que é TypeScript': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
+   'Me explique o que é TypeScript': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
+   'me explique o que é TypeScript': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
+
+
+   'O que é Front End?': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
+   'O que é Front End': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
+   'o que é Front End?': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
+   'o que é Front End': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
+   'Me explique o que é Front End': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
+   'me explique o que é Front End': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
+
+
+   'O que é Back End?': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'O que é Back End': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'o que é Back End?': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'o que é Back End': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'Me explique o que é Back End': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'me explique o que é Back End': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+
+
+   'O que é Full Stack?': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
+   'O que é Full Stack': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
+   'o que é Full Stack?': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
+   'o que é Full Stack': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
+   'Me explique o que é Full Stack': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
+   'me explique o que é Full Stack': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
+
+
+   'O que é Bootcamp?': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
+   'O que é Bootcamp': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
+   'o que é Bootcamp?': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
+   'o que é Bootcamp': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
+   'Me explique o que é Bootcamp': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
+   'me explique o que é Bootcamp': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
 
 
   'onde posso ver seu currículo?': 'Você pode baixar meu currículo na seção "Início" do portfolio.',
