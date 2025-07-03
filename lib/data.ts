@@ -2,9 +2,10 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import dashboardImg from "@/public/dashboard.png";
+import sushizitoImg from "@/public/sushizito.png";
+import memorygameImg from "@/public/memorygame.png";
+
 
 export const links = [
   {
@@ -38,7 +39,7 @@ export const experiencesData = [
     title: "Ensino Profissional",
     location: "Lisboa, PT",
     description:
-      "Tudo começou em 2022, quando entrei para o curso profissional de Informática de Sistemas. Foi nesse período que tive meu primeiro contato com o mundo da tecnologia e descobri um grande interesse pela área de desenvolvimento.",
+      "Tudo começou em 2022, quando entrei para o curso profissional de Informática de Sistemas na Casa Pia de Lisboa. Foi nesse período que tive meu primeiro contato com o mundo da tecnologia e descobri um grande interesse pela área de desenvolvimento.",
     icon: React.createElement(LuGraduationCap),
     date: "2022",
   },
@@ -61,25 +62,28 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Inserir Proj",
-    description:
-      "Desc proj 1.",
+    title: "DashBoard Design",
+    description: "Desenvolvimento de um dashboard moderno e responsivo, pensado para facilitar a visualização e o gerenciamento de dados importantes de forma intuitiva.",
     tags: ["HTML", "CSS", "JavaScript"],
-    imageUrl: corpcommentImg,
+    imageUrl: dashboardImg,
+    githubUrl: "https://github.com/sarahaliriel/dashboard-design",
+    liveUrl: "https://dashboard-roan-zeta-69.vercel.app/",
   },
   {
-    title: "Inserir Proj 2",
-    description:
-      "Desc proj 2.",
-    tags: ["HTML", "CSS", "API", "SQL", "PHP"],
-    imageUrl: rmtdevImg,
+    title: "Jogo da Memória",
+    description: "Jogo simples feito com HTML, CSS e JavaScript. O utilizador encontra pares de cartas iguais, exercitando a memória e a concentração.",
+    tags: ["HTML", "CSS", "JavaScript"],
+    imageUrl: memorygameImg,
+    githubUrl: "https://github.com/sarahaliriel/jogo-memoria/tree/main",
+    liveUrl: "https://sarahaliriel.github.io/jogo-memoria/",
   },
-  {
-    title: "Inserir Proj 3",
-    description:
-      "Desc proj 3.",
-    tags: ["HTMTL", "CSS", "SQL", "Tailwind"],
-    imageUrl: wordanalyticsImg,
+    {
+    title: "Landing Page SushiZito",
+    description: "Design de uma landing page atraente e responsiva para uma loja ficcional online de comida japonesa.",
+    tags: ["HTML", "CSS", "JavaScript"],
+    imageUrl: sushizitoImg,
+    githubUrl: "https://github.com/sarahaliriel/sushi-landingpage",
+    liveUrl: "https://sushizito.vercel.app/",
   },
 ] as const;
 
@@ -97,6 +101,8 @@ export const skillsData = [
   "Next.js",
   "Typescript",
   "MySQL",
+  "Prisma",
+  "Docker",
   "PHP",
   "Git",
   "Github"

@@ -269,7 +269,13 @@ export default function Chatbot() {
    'me explique o que é programação': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
    'diga o que é programação': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
    'Diga o que é programação': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
-
+   'programação': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+   'programacao': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+   'programaçao': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+   'programacao?': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+   'programaçao?': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+   'programação?': 'Programação é a forma de dar instruções para o computador realizar tarefas. Com ela, podemos criar sites, aplicativos, jogos e muito mais.',
+  
 
    'O que é HTML?': 'HTML é a linguagem que cria a estrutura das páginas da web.',
    'O que é HTML': 'HTML é a linguagem que cria a estrutura das páginas da web.',
@@ -277,6 +283,9 @@ export default function Chatbot() {
    'o que é HTML': 'HTML é a linguagem que cria a estrutura das páginas da web.',
    'Me explique o que é HTML': 'HTML é a linguagem que cria a estrutura das páginas da web.',
    'me explique o que é HTML': 'HTML é a linguagem que cria a estrutura das páginas da web.',
+   'HTML': 'HTML é a linguagem que cria a estrutura das páginas da web.',
+   'HTML?': 'HTML é a linguagem que cria a estrutura das páginas da web.',
+   'html': 'HTML é a linguagem que cria a estrutura das páginas da web.',
 
 
    'O que é CSS?': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
@@ -285,6 +294,10 @@ export default function Chatbot() {
    'o que é CSS': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
    'Me explique o que é CSS': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
    'me explique o que é CSS': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
+   'CSS': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
+   'css': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
+   'css?': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
+   'CSS?': 'CSS é a linguagem que define o estilo e o visual do site, como cores e fontes.',
 
 
    'O que é JavaScript?': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
@@ -293,6 +306,9 @@ export default function Chatbot() {
    'o que é JavaScript': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
    'Me explique o que é JavaScript': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
    'me explique o que é JavaScript': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
+   'JavaScript': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
+   'javascript': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
+   'javascript?': 'JavaScript é a linguagem que adiciona interatividade e dinamismo às páginas.',
 
    
    'O que é Tailwind CSS?': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
@@ -301,6 +317,9 @@ export default function Chatbot() {
    'o que é Tailwind CSS': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
    'Me explique o que é Tailwind CSS': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
    'me explique o que é Tailwind CSS': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
+   'Tailwind CSS': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
+   'tailwind css?': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
+   'Tailwind CSS?': 'Tailwind CSS é uma ferramenta que facilita a criação rápida de estilos usando classes prontas.',
 
 
    'O que é Next.js?': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
@@ -309,7 +328,20 @@ export default function Chatbot() {
    'o que é Next.js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
    'Me explique o que é Next.js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
    'me explique o que é Next.js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
-
+   'O que é Next js?': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'O que é Next js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'o que é Next js?': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'o que é Next js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'Me explique o que é Next js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'me explique o que é Next js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'Next js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'next js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'Next.js': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'Next js?': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'next.js?': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'Next.js?': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+   'next js?': 'Next.js é um framework que ajuda a construir sites e aplicativos React de forma mais eficiente.',
+  
 
    'O que é um portfólio?': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
    'O que é um portfólio': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
@@ -317,6 +349,12 @@ export default function Chatbot() {
    'o que é um portfólio': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
    'Me explique o que é um portfólio': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
    'me explique o que é um portfólio': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
+   'O que é um portfolio?': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
+   'O que é um portfolio': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
+   'o que é um portfolio?': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
+   'o que é um portfolio': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
+   'Me explique o que é um portfolio': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
+   'me explique o que é um portfolio': 'Um portfólio é uma coleção dos seus melhores trabalhos, projetos e habilidades para mostrar para outras pessoas, como empregadores ou clientes.',
 
 
    'Para que serve um portfólio': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
@@ -325,7 +363,10 @@ export default function Chatbot() {
    'para o que serve um portfólio': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
    'Me explique para o que serve um portfólio': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
    'me explique para o que serve um portfólio': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
-
+   'portfólio': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
+   'portfólio?': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
+   'portfolio': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
+    'portfolio?': 'Um portfólio serve para apresentar seu trabalho, destacar suas competências e ajudar a conseguir empregos ou oportunidades.',
 
    'O que é TypeScript?': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
    'O que é TypeScript': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
@@ -333,6 +374,9 @@ export default function Chatbot() {
    'o que é TypeScript': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
    'Me explique o que é TypeScript': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
    'me explique o que é TypeScript': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
+   'TypeScript': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
+   'typescript?': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
+   'typescript': 'TypeScript é uma versão do JavaScript que adiciona tipos para evitar erros e melhorar o código.',
 
 
    'O que é Front End?': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
@@ -341,6 +385,12 @@ export default function Chatbot() {
    'o que é Front End': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
    'Me explique o que é Front End': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
    'me explique o que é Front End': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
+   'front end': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
+   'Front end?': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
+   'Front-End?': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
+   'Front-end?': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
+   'Front End?': 'Front end é a parte do site que o usuário vê e com a qual interage, como botões, textos e imagens.',
+
 
 
    'O que é Back End?': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
@@ -349,6 +399,14 @@ export default function Chatbot() {
    'o que é Back End': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
    'Me explique o que é Back End': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
    'me explique o que é Back End': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'Back End?': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'Back End': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'back end': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'back end?': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'Back-End?': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'Back-End': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'back-end': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
+   'back-end?': 'Back end é a parte do site ou aplicativo que roda no servidor, responsável por processar dados, controlar o que acontece “por trás das cenas” e armazenar informações.',
 
 
    'O que é Full Stack?': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
@@ -357,6 +415,12 @@ export default function Chatbot() {
    'o que é Full Stack': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
    'Me explique o que é Full Stack': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
    'me explique o que é Full Stack': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
+   'Full Stack': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
+   'full stack': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
+   'o que é full stack': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
+   'full stack?': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
+   'o que é full stack?': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
+   'full-stack?': 'Full stack é o profissional que sabe trabalhar tanto na parte visual do site (front end) quanto na parte que roda no servidor e banco de dados (back end).',
 
 
    'O que é Bootcamp?': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
@@ -365,6 +429,9 @@ export default function Chatbot() {
    'o que é Bootcamp': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
    'Me explique o que é Bootcamp': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
    'me explique o que é Bootcamp': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
+   'bootcamp': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
+   'Bootcamp?': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
+   'Bootcamp': 'Um bootcamp é um curso intensivo e prático que ensina habilidades específicas, geralmente na área de tecnologia, em pouco tempo, preparando rápido para o mercado de trabalho.',
 
 
   'onde posso ver seu currículo?': 'Você pode baixar meu currículo na seção "Início" do portfolio.',
@@ -382,7 +449,7 @@ export default function Chatbot() {
   'onde posso ver seu currículo': 'Você pode baixar meu currículo na seção "Início" do portfolio.',
   'onde posso ver o seu currículo': 'Você pode baixar meu currículo na seção "Início" do portfolio.',
   'onde posso ver o currículo': 'Você pode baixar meu currículo na seção "Início" do portfolio.',
-  'currículo': 'Você pode baixar meu currículo na seção "Início" do portfolio.',
+  'curriculo': 'Você pode baixar meu currículo na seção "Início" do portfolio.',
   'tem currículo': 'Você pode baixar meu currículo na seção "Início" do portfolio.',
   'onde está o currículo': 'Você pode baixar meu currículo na seção "Início" do portfolio.',
   'Onde posso ver seu currículo': 'Você pode baixar meu currículo na seção "Início" do portfolio.',

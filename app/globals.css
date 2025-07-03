@@ -4,6 +4,7 @@
 
 html {
   --line-color: #EAB897;
+  scroll-behavior: smooth;
 }
 
 html.dark {
@@ -15,3 +16,7 @@ html.dark {
   @apply border border-black/10;
 }
 
+.SectionHeading {
+  @apply text-2xl font-bold mb-4;
+  color: #EAB897;
+}
