@@ -500,22 +500,17 @@ export default function Chatbot() {
 
   const handleSend = () => {
     if (!input.trim()) return;
-
     const pergunta = input.toLowerCase();
-
     const resposta =
       respostasProgramadas[pergunta] || 'Desculpe, não estou programada para responder a isto. Tente perguntar outra coisa!';
-
     const novaMensagem = { id: crypto.randomUUID(), sender: 'user' as const, text: input };
     setMessages((prev) => [...prev, novaMensagem]);
-
     setTimeout(() => {
       setMessages((prev) => [
         ...prev,
         { id: crypto.randomUUID(), sender: 'bot' as const, text: resposta }
       ]);
     }, 800);
-
     setInput('');
   };
 
@@ -527,7 +522,6 @@ export default function Chatbot() {
       >
         {isOpen ? 'Fechar Chat' : 'Abrir Chat'}
       </button>
-
       {isOpen && (
         <div
           className="h-96 rounded-xl p-4 mt-4 flex flex-col shadow-xl"

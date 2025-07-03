@@ -63,7 +63,7 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Me chamo Sarah Dumitrache </span>e sou uma{" "}
-        <span className="font-bold">full-stack developer</span>. Aos 18 com 3 anos de experiência na área, meu principal foco é no{" "}
+        <span className="font-bold">front-end developer</span>. Aos 18 com 3 anos de experiência na área, meu principal foco é no{" "}
         <span className="font-bold">desenvolvimento de Web-Sites</span>.
       </motion.h1>
 

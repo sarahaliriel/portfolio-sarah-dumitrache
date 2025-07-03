@@ -30,7 +30,6 @@ export default function Contact() {
       }}
     >
       <SectionHeading>Vamos Conversar</SectionHeading>
-
       <p className="text-gray-700 -mt-6 dark:text-white/80">
         Entre em contato comigo diretamente pelo e-mail{" "}
         <a className="underline" href="mailto:dumitrachefilha@gmail.com">
@@ -38,12 +37,10 @@ export default function Contact() {
         </a>{" "}
         ou por meio deste formulário.
       </p>
-
       <form
         className="mt-10 flex flex-col dark:text-black"
         action={async (formData) => {
           const { data, error } = await sendEmail(formData);
-
           if (error) {
             toast.error(error);
             return;
