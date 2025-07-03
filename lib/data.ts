@@ -51,7 +51,7 @@ export const experiencesData = [
     date: "2023 - 2024",
   },
   {
-    title: "Full-Stack Developer",
+    title: "Front-End Developer",
     location: "Lisboa, PT",
     description:
       "Ainda no começo deste ano, participei de um Bootcamp de uma semana o qual não só coloquei em prática o que já sabia, mas também aperfeiçoei meus conhecimentos em HTML, CSS e JavaScript. Hoje, continuo me dedicando à área, aprimorando minhas habilidades, aprendendo novas tecnologias e desenvolvendo projetos que refletem minha evolução como futura desenvolvedora full-stack.",
